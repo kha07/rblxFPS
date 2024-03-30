@@ -1,0 +1,14 @@
+You can change the target FPS!
+
+
+
+                Instructions
+<------------------------------------------>
+
+1. Open Roblox Player's File Location
+
+2. Make A New File In The File Directory For Roblox Called "ClientSettings"
+
+3. Drag that ClientAppSettings.json file into the new folder.
+
+4. Important Note, Everytime Roblox Updates, You Have To Redo the steps.
